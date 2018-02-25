@@ -14,3 +14,4 @@ Technologies Used:
 
 ![](img.png)
 
+# All issues are located in the issues section.
