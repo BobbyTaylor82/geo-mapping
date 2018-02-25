@@ -10,7 +10,7 @@ Tools Used:
 <li>HTML5 & CSS </li>
 <li>JavaScript </li>
   
-# results 
+# Results 
 
 ![](img.png)
 
