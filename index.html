@@ -43,7 +43,7 @@
         #map,
         body,
         html {
-            height: 90%;
+            height: 100vh;
             
         }
 
@@ -76,11 +76,38 @@
 <body>
 
 
-    <div id="header" class="jumbotron" style="text-align:center">
-        <h1>Geo-Mapping: Earthquakes </h1>
-    </div>
+    <div id="side-bar" class="col-md-3">
+        <h3>Geo-Mapping: Earthquakes</h3>
+        <hr>
 
-    <div id="map" style="margin-top: -30px;"></div>
+        <h4><u>Details</u></h4>
+        <p>In this project, data was obtained from the United States Geological Survey website. 
+            On the right are earthquakes mapped using leaflet for the past seven days. Some findings 
+            from this information were the following:</p>
+
+            <ul>
+
+                <li>There is a large number of earthquakes along the coastline of California. 
+                    The earthquakes increased in magnitude but decreased in the number of occurrences
+                     towards Mexico and South America.</li><br>
+
+                    <li>There were no earthquakes recorded in Africa.</li> <br>
+
+                    <li> There were a large number of earthquakes recorded along the coastline of Alaska.</li> <br>
+
+            </ul>
+        
+           <i>For more information about this project visit this <a href="https://github.com/BobbyTaylor82/geo-mapping">link</a>.</i>
+
+        
+
+
+
+
+
+
+    </div>
+    <div id="map" class="col-md-9"></div>
 
     <script>
         // Creating map object
@@ -170,7 +197,7 @@
 
                 
                
-
+                    div.innerHTML= "<div style='color:white'>Magnitude Scale</div>"
                 // loop through our density intervals and generate a label with a colored square for each interval
                 for (var i = 0; i < grades.length; i++) {
                     div.innerHTML +=
@@ -182,7 +209,7 @@
 
                 
             };
-
+               
                    
 
           
