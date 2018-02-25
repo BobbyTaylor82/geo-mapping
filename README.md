@@ -14,4 +14,4 @@ Technologies Used:
 
 ![](img.png)
 
-# All issues are located in the issues section.
+## Additional add-ons are located in the issues tab.
