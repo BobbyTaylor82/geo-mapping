@@ -7,7 +7,7 @@ You can explore this interactive map at this [link](https://bobbytaylor82.github
 
 Tools Used: 
 <ul>
-<li>HTML5 & CSS </li>
+<li>HTML5 & CSS5 </li>
 <li>JavaScript </li>
   
 # Results 
