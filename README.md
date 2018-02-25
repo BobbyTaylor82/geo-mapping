@@ -5,10 +5,10 @@ The United States Geological Survey provides earthquake data in a number of diff
 You can explore this interactive map at this [link](https://bobbytaylor82.github.io/geo-mapping/).
 
 
-Tools Used: 
+Technologies Used: 
 <ul>
-<li>HTML5 & CSS5 </li>
-<li>JavaScript </li>
+<li>HTML5 & CSS5 & Bootstrap 3.7</li>
+<li>JavaScript</li>
   
 # Results 
 
